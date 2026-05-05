@@ -1,6 +1,6 @@
 ## Hey 👋
 
-This is the home of **FormSeal** — a small ecosystem of CLI tools for encrypted form handling.
+This is the home of **formseal** — a small ecosystem of CLI tools for encrypted form handling.
 
 FormSeal is maintained by one developer. The org exists to give the project its own space and keep things tidy.
 
