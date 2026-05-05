@@ -8,7 +8,7 @@ FormSeal is maintained by one developer. The org exists to give the project its 
 
 ### What we build
 
-FormSeal is a client-side encrypted form pipeline. Submissions are sealed in the browser before reaching your backend. The server stores ciphertext only. Decryption happens locally, with a key that never leaves your machine.
+formseal is a client-side encrypted form pipeline. Submissions are sealed in the browser before reaching your backend. The server stores ciphertext only. Decryption happens locally, with a key that never leaves your machine.
 
 Three tools, one pipeline:
 
